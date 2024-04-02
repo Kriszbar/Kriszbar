@@ -1,0 +1,26 @@
+# Humanoid Cognitive and Brain-like Function Development Roadmap
+
+## 1. Foundation of Cognitive Architectures
+- Develop biologically-inspired cognitive architectures.
+- Implement neural networks that mimic brain activity.
+
+## 2. Cognitive Developmental Robotics (CDR)
+- Apply human cognitive development principles to robotics.
+- Focus on learning and adaptation through interaction with the environment.
+
+## 3. Enhancement of Human-Robot Interaction (HRI)
+- Design robots capable of understanding human expressions.
+- Achieve meaningful social interactions between humans and robots.
+
+## 4. Implementation of Biologically-Inspired Cognitive Architecture
+- Mimic human cognitive processes in robots.
+- Example platforms: iCub humanoid robot.
+
+## 5. Open-Systems Platform for Research
+- Utilize platforms like the iCub robot for collaborative research.
+- Explore sensory-motor skills, perception, and interaction.
+
+## 6. Cognitive Vision Systems
+- Develop cognitively and neurally plausible vision systems for robots.
+- Aim for replication of human-like vision capabilities.
+
