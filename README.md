@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kriszbar
-- 👀 I’m interested in developing GitHub figures, roadmaps and flowcharts.
+- 👀 I’m interested in developing in GitHub figures, roadmaps and flowcharts with mermaid, markdown
 - 🌱 I’m currently learning this portal.
 
 
